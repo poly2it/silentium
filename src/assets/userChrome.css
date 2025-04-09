@@ -1,0 +1,27 @@
+@import "firefox-gnome-theme/userChrome.css";
+
+#webrtcIndicator {
+	display: none;
+}
+
+#firefox-view-button {
+	display: none;
+}
+
+/* Disable the "Import Bookmarks" button. */
+#import-button {
+	display: none;
+}
+
+#tracking-protection-icon-container {
+	margin-right: -4px;
+}
+
+#identity-box {
+	margin-right: -4x !important;
+	margin-left: 2px !important;
+}
+
+#identity-icon-box {
+	margin-right: -4x !important;
+}
