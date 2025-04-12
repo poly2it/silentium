@@ -522,5 +522,7 @@ in
     # Breaks fullscreen canvas
     "turbowarp.org"
     "scratch.mit.edu"
+    # Breaks examples
+    "bevyengine.org"
   ];
 }
