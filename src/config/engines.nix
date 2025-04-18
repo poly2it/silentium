@@ -1,10 +1,10 @@
 { pkgs }:
 {
-  "Google".metaData.hidden = true;
-  "Bing".metaData.hidden = true;
-  "eBay".metaData.hidden = true;
+  "google".metaData.hidden = true;
+  "bing".metaData.hidden = true;
+  "ebay".metaData.hidden = true;
+  "wikipedia".metaData.alias = "@w";
   "Ecosia".metaData.hidden = true;
-  "Wikipedia (en)".metaData.alias = "@w";
   "Wiktionary" = {
     urls = [
       {

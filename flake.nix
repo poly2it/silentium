@@ -7,7 +7,7 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     firefox-gnome-theme = {
-      url = "github:rafaelmardojai/firefox-gnome-theme";
+      url = "github:rafaelmardojai/firefox-gnome-theme/beta";
       flake = false;
     };
   };
